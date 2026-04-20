@@ -26,7 +26,7 @@ Loyola University of Maryland- Writing Major, History Minor
 
 ## Course Grade Evaluator Assignment
  - Project 2 Summary
- - [insert project 2 screenshot here] (https://github.com/cfminnaugh/sp26-cs105-python-week-3-cfminnaugh/commit/eccddf19e021db0e2c9094017bd172cf38096dd8)
+ - ![course grade calculator ss.png](Images%20or%20Assets/course%20grade%20calculator%20ss.png) (https://github.com/cfminnaugh/sp26-cs105-python-week-3-cfminnaugh/commit/eccddf19e021db0e2c9094017bd172cf38096dd8)
  - Project 2 Report
 ***
 #### Reverse Fizzbuzz Assignment 
