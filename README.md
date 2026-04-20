@@ -19,9 +19,9 @@ Loyola University of Maryland- Writing Major, History Minor
 ### Projects
 
 ## Personality Test Application
- - For this project, I created an interactive quiz for people to discover what Hogwarts house they are. 
- - [insert project 1 screenshot here] (https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-cfminnaugh/commit/d1835071df79606c36c5538bb95be624f74612a7)
- - Project 1 Report
+ - For this project, I created an interactive quiz for people to discover what Hogwarts house they are. Throughout the quiz, the reader answers ten questions, which each response corresponding to one of the four Hogwarts houses.
+ - ![personality test ss.png](Images%20or%20Assets/personality%20test%20ss.png) (https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-cfminnaugh/commit/d1835071df79606c36c5538bb95be624f74612a7)
+ - Overall, this coding of this project worked well, assigning those who take the quiz to a Hogwarts house. 
 ***
 ## Course Grade Evaluator Assignment
  - Project 2 Summary
