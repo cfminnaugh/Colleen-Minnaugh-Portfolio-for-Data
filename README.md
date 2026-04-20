@@ -1,5 +1,6 @@
-# CS105/6/7/8 Portfolio
+# CS108 Portfolio
 # Colleen Minnaugh
+![profile pic for data.png](Images%20or%20Assets/profile%20pic%20for%20data.png)
 ## Portfolio
 Contact Info: 404-759-8778
 ## About Me 
@@ -15,14 +16,14 @@ You can find me on LinkedIn, HerCampus, and Substack.
 
 ### Education 
 Loyola University of Maryland- Writing Major, History Minor
-***
+
 ### Projects
 
 ## Personality Test Application
  - For this project, I created an interactive quiz for people to discover what Hogwarts house they are. Throughout the quiz, the reader answers ten questions, which each response corresponding to one of the four Hogwarts houses.
  - ![personality test ss.png](Images%20or%20Assets/personality%20test%20ss.png) (https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-cfminnaugh/commit/d1835071df79606c36c5538bb95be624f74612a7)
  - Overall, this coding of this project worked well, assigning those who take the quiz to a Hogwarts house. 
-***
+
 ## Course Grade Evaluator Assignment
  - Project 2 Summary
  - [insert project 2 screenshot here] (https://github.com/cfminnaugh/sp26-cs105-python-week-3-cfminnaugh/commit/eccddf19e021db0e2c9094017bd172cf38096dd8)
