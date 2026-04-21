@@ -15,7 +15,7 @@ With skills in essay writing, editing, creativity, and grammar, I am able to art
 My extensive skill set, commitment to creativity and integrity, and passion for storytelling make me a valuable asset. In my spare time, I like to horseback ride and go hiking. 
 
 
-You can find me on LinkedIn, HerCampus, and Substack. 
+You can find me on [LinkedIn](<a href="https://www.linkedin.com/in/colleen-minnaugh-389216298/">My LinkedIn</a>), HerCampus, and Substack. 
 
 
 ### Education 
