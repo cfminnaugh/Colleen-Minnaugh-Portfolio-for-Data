@@ -1,8 +1,10 @@
 # CS108 Portfolio
 # Colleen Minnaugh
-![profile pic for data.png](Images%20or%20Assets/profile%20pic%20for%20data.png)
+![profile pic for data.png](Images%20or%20Assets/profile%20pic%20for%20data.png width="300")
 ## Portfolio
-Contact Info: 404-759-8778
+Contact Info: 
+404-759-8778
+email: cfminnaugh@gmail.com
 ## About Me 
 Hello! I am an experienced creative writer and writing professional with over six years of proven expertise in literature and creative writing.  
  
