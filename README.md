@@ -25,7 +25,7 @@ Loyola University of Maryland- Writing Major, History Minor
  - For this project, I created an interactive quiz for people to discover what Hogwarts house they are. Throughout the quiz, the reader answers ten questions, which each response corresponding to one of the four Hogwarts houses.
  - ![personality test ss.png](Images%20or%20Assets/personality%20test%20ss.png) (https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-cfminnaugh/commit/d1835071df79606c36c5538bb95be624f74612a7)
  - Overall, this coding of this project worked well, assigning those who take the quiz to a Hogwarts house. This was the most extensive of the three assignments, which made it the most difficult to complete. Making sure that each letter answer corresponded for a specific House was particularly difficult, but once I figured out the process, it became incredibly easy to do. 
- - Project Write Up:
+ - Project Write Up: On this project, I set out to fix a reoccurring issue I had where my answers were not properly corresponding. This was an important problem to solve because my answers needed to correspond to the correct question. I used the Moodle page extensively for help on this project. Also, my peers helped me to complete this assignment. If I were to do this project again, I would put more thought into the questions asked, and make my answers at the end much more substantial.  
 
 ## Course Grade Evaluator Assignment
  - For this project, I created a code that when it is run and filled in, a student can figure out what their grade in a class will be based off the grades and weights of other assignments. 
