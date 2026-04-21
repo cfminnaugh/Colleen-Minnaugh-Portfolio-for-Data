@@ -1,6 +1,7 @@
 # CS108 Portfolio
+![banner pic.png](Images%20or%20Assets/banner%20pic.png)
 # Colleen Minnaugh
-![profile pic for data.png](Images%20or%20Assets/profile%20pic%20for%20data.png width="300")
+![profile pic for data.png](Images%20or%20Assets/profile%20pic%20for%20data.png) 
 ## Portfolio
 Contact Info: 
 404-759-8778
@@ -33,5 +34,5 @@ Loyola University of Maryland- Writing Major, History Minor
 ***
 #### Reverse Fizzbuzz Assignment 
  - Project 3 Summary
- - [insert project 3 screenshot here] (https://github.com/cfminnaugh/sp26-cs105-python-week-3-cfminnaugh/blob/main/reverse%20fizzbuzz.py)
+ - ![reverse fizz buzz ss.png](Images%20or%20Assets/reverse%20fizz%20buzz%20ss.png) (https://github.com/cfminnaugh/sp26-cs105-python-week-3-cfminnaugh/blob/main/reverse%20fizzbuzz.py)
  - Project 3 Report
